@@ -9,6 +9,17 @@ Personalized fork of original Gitster theme
 - ZSH
 - Nerd Fonts patched font
 
+## Installation
+
+### Automatic
+
+1. Run the `setup.sh` file to automatically create the symlink for you and follow the instructions.
+
+### Manual
+
+1. Drop the `duckster.zsh-theme` file into your `~/.oh-my-zsh/themes/` directory
+2. Add ZSH_THEME="duckster" to your `~/.zshrc` file
+
 ## License
 
 MIT License
