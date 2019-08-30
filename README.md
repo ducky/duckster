@@ -7,7 +7,7 @@ Personalized fork of original Gitster theme
 ## Requirements
 
 - ZSH
-- Nerd Fonts patched font
+- Nerd Fonts patched font ([link](https://www.nerdfonts.com/))
 
 ## Installation
 
