@@ -13,7 +13,7 @@ Personalized fork of original Gitster theme
 
 ### Automatic
 
-1. Run the `setup.sh` file to automatically create the symlink for you and follow the instructions.
+1. Run `ZSH_CUSTOM=$ZSH_CUSTOM ./setup.sh` to automatically create the symlink for you and follow the instructions.
 
 ### Manual
 
