@@ -2,7 +2,7 @@
 
 Personalized fork of original Gitster theme
 
-![Duckster Theme Preview](https://i.imgur.com/mBo7dwR.png)
+![Duckster Theme Preview](screenshot.png)
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Personalized fork of original Gitster theme
 ### Manual
 
 1. Drop the `duckster.zsh-theme` file into your `~/.oh-my-zsh/themes/` directory
-2. Add ZSH_THEME="duckster" to your `~/.zshrc` file
+2. Add `ZSH_THEME="duckster"` to your `~/.zshrc` file
 
 ## License
 
